@@ -56,3 +56,14 @@ This calculator provides a smooth user experience, supports all standard arithme
 - **HTML5**
 - **CSS3**
 - **Vanilla JavaScript (ES6)**
+
+---
+
+## 🚀 How to Run
+
+**Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/Calculator.git
+   cd Calculator
+   ```
+   
